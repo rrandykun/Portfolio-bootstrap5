@@ -1,0 +1,26 @@
+body {
+    min-height: 2000px;
+    font-family: "Roboto", sans-serif;
+}
+
+.navbar-brand {
+    font-family: "Akaya Kanadaka", cursive;
+    font-size: x-large;
+}
+
+.jumbotron {
+    padding-top: 100px;
+    background-color: #d3e4d9;
+}
+
+.jumbotron h1 {
+    font-family: "Roboto Slab", serif;
+}
+
+#project {
+    background-color: #d3e4d9;
+}
+
+section {
+    padding-top: 100px;
+}
